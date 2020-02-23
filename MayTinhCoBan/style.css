@@ -1,0 +1,19 @@
+table{
+    background-color: #dddddd;
+    margin: auto;
+}
+#Result{
+    width: 182px;
+}
+.number{
+    width: 34px;
+    height: 32px;
+}
+#equ{
+    width: 34px;
+    height: 68px;
+}
+#zezo{
+    width: 72px;
+    height: 32px;
+}
